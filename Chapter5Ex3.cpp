@@ -16,7 +16,7 @@ int main()
 
 
 	cout << "Welcome to Logen's Distance Calculator!" << endl;
-	cout << "First, how fast are you going? (In MPH please!" << endl;
+	cout << "First, how fast are you going? (In MPH please!)" << endl;
 	cin >> speed;
 	cout << "Alrighty, now how long are we gonna be going for?" << endl;
 	cin >> time;
